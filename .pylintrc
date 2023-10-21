@@ -1,0 +1,6 @@
+signature-mutators=click.decorators.option
+signature-mutators=click.decorators.argument,
+signature-mutators=click.decorators.version_option,
+signature-mutators=click.decorators.help_option,
+signature-mutators=click.decorators.pass_context,
+signature-mutators=click.decorators.confirmation_option
